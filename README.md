@@ -64,7 +64,7 @@ $ source .scrolls-env/bin/activate
 
 ## Design goals
 gpt-scroll prompts should aim to be:
-- **effective**: they should reliably produce desired classes of outpupts
+- **effective**: they should reliably produce desired classes of outputs
 - **efficient**: they should be as short as possible
 - **safe**: they should minimize appearance of toxic/harmful output
 
